@@ -1,5 +1,7 @@
 |Tests Status| |Coverage Status|
 
+push from remote to remote
+
 Patroni: A Template for PostgreSQL HA with ZooKeeper, etcd or Consul
 --------------------------------------------------------------------
 
